@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gh.pages": "gh-pages -d thechampionszone_page"
+    "deploy": "gh-pages -d assets"
   },
   "keywords": [],
   "author": "",

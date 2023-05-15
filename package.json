@@ -1,0 +1,18 @@
+{
+  "name": "thechampionszone_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gh.pages": "gh-pages -d thechampionszone_page"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
